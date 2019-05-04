@@ -19,6 +19,8 @@ I __main.py__ i funktionerna __fileUpload()__ och __indexUpload()__ får du änd
 		filepath3 = "style_bg.css"<br />
 		localpath3 = "/home/pi/kod/makerspace/style_bg.css"<br /><br />
 
+Glöm inte att även ladda upp din index.html-fil till din server. Det är den du laddar med webbläsaren på den enhet som du ska ha som infoskärm.
+
 # Credits
 Kalenderimportfunktionaliteten är en omarbetning och vidareutveckling av jeinarsson https://gist.github.com/jeinarsson/989329deb6906cae49f6e9f979c46ae7
     
