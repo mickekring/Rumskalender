@@ -18,5 +18,8 @@ I __main.py__ i funktionerna __fileUpload()__ och __indexUpload()__ får du änd
 		localpath2 = "/home/pi/kod/makerspace/style.css"<br />
 		filepath3 = "style_bg.css"<br />
 		localpath3 = "/home/pi/kod/makerspace/style_bg.css"<br /><br />
+
+# Credits
+Kalenderimportfunktionaliteten är en omarbetning och vidareutveckling av jeinarsson https://gist.github.com/jeinarsson/989329deb6906cae49f6e9f979c46ae7
     
 
